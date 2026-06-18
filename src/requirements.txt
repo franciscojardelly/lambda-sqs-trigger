@@ -1,0 +1,8 @@
+# boto3 já está disponível no runtime do Lambda — não adicione aqui.
+# A layer só é criada quando há ao menos um pacote instalável neste arquivo.
+
+# Observabilidade e utilitários Lambda
+aws-lambda-powertools==3.13.0
+
+# Validação de dados (mensagens vindas da fila)
+pydantic==2.11.5
